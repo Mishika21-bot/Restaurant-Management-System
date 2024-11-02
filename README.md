@@ -1,8 +1,8 @@
-**Restaurant Management System**
+# Restaurant Management System
 
 A desktop application designed to optimize restaurant operations by integrating various management functionalities. This project utilizes MySQL for efficient data storage and retrieval, alongside Python for the application logic, to create a streamlined experience for managing orders, reservations, and inventory.
 
-**Key Features**
+## Key Features
 
 - **User-Friendly Interface**: An intuitive design that facilitates easy navigation for restaurant staff.
 - **Order Management**: Enables efficient processing and tracking of customer orders.
@@ -10,7 +10,7 @@ A desktop application designed to optimize restaurant operations by integrating 
 - **Menu Management**: Provides tools for adding, updating, and removing menu items.
 - **Inventory Tracking**: Monitors stock levels to ensure ingredient availability.
 
-**Tech Stack**
+## Tech Stack
 
 - **MySQL**: For reliable data management and storage.
 - **Python**: For developing the application’s core functionality.
